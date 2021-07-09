@@ -1,9 +1,7 @@
-# WP-Install Exploiter
-**This script is recode from admin-san project.**
+# OJS-ShellFinder
 
-Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy] <br />
-Insp by: [Unknown45](https://github.com/whoami-45)
-Recode By: [L4N4N9_4K1R4](https://github.com/LanangAkira)
+Thanks To: [LoL-Human](https://github.com/LoL-Human) <br />
+Author: [L4N4N9_4K1R4](https://github.com/LanangAkira)
 ##### PREREQUISITES
 * Python 3.x 
 * pip3
@@ -15,10 +13,10 @@ Recode By: [L4N4N9_4K1R4](https://github.com/LanangAkira)
 
 ## Installation
 ```sh
-$ git clone https://github.com/LanangAkira/Wp-Install-Finder
-$ cd Wp-Install-Finder
+$ git clone https://github.com/LanangAkira/OJS-ShellFinder
+$ cd OJS-ShellFinder
 $ pip3 install -r requirements.txt
-$ python3 wp.py
+$ python3 ojs.py
 ```
 ##### Update Wordlist
 ```sh
@@ -26,10 +24,9 @@ $ apt install wget
 $ python update.py
 ```
 #### Note
-Error 403 = Firewall in Website <br />
-Error 500 = Server not Responding / Connection Error
+If Error = Web Had WAF
 
 ### ScreenShot
-![shot](https://i.imgur.com/ejsvxcg.png)
-![shot](https://i.imgur.com/IxKpzoD.png)
+![shot](https://imgur.com/gBaloil.png)
+
 
