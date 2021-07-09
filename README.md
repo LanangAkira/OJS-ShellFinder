@@ -24,10 +24,10 @@ $ apt install wget
 $ python update.py
 ```
 #### Note
-If Error = Web Had WAF
-200/Here = Ok Shell Founded
-403/403 = Check it XD
-404/404 = Omaewa mou shindeiru
+If Error = Web Had WAF <br />
+200/Here = Ok Shell Founded <br />
+403/403 = Check it XD <br />
+404/404 = Omaewa mou shindeiru <br />
 
 ### ScreenShot
 ![shot](https://imgur.com/gBaloil.png)
