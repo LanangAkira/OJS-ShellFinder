@@ -29,7 +29,7 @@ If Error = Web Had WAF <br />
 403/403 = Check it XD <br />
 404/404 = Omaewa mou shindeiru <br />
 
-### ScreenShot
+### IMG
 ![shot](https://imgur.com/gBaloil.png)
 
 
