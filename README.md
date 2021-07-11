@@ -13,15 +13,15 @@ Author: [L4N4N9_4K1R4](https://github.com/LanangAkira)
 
 ## Installation
 ```sh
-$ git clone https://github.com/LanangAkira/OJS-ShellFinder
-$ cd OJS-ShellFinder
-$ pip3 install -r requirements.txt
-$ python3 ojs.py
+git clone https://github.com/LanangAkira/OJS-ShellFinder
+cd OJS-ShellFinder
+pip3 install -r requirements.txt
+python3 ojs.py
 ```
 ##### Update Script
 ```sh
-$ apt install wget
-$ python update.py
+apt install wget
+python update.py
 ```
 #### Note
 If Error = Web Had WAF <br />
