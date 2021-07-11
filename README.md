@@ -18,7 +18,7 @@ $ cd OJS-ShellFinder
 $ pip3 install -r requirements.txt
 $ python3 ojs.py
 ```
-##### Update Wordlist
+##### Update Script
 ```sh
 $ apt install wget
 $ python update.py
